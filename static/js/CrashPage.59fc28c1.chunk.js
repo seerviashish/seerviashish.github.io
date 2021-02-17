@@ -1,0 +1,2 @@
+(this.webpackJsonpashish=this.webpackJsonpashish||[]).push([[4],{304:function(t,e,n){"use strict";n.r(e);var r=n(3),a=n(19),s=n(36),c=n(23),i=n(24),u=n(0),h=function(t){Object(c.a)(n,t);var e=Object(i.a)(n);function n(){return Object(a.a)(this,n),e.apply(this,arguments)}return Object(s.a)(n,[{key:"render",value:function(){return Object(r.jsx)("div",{children:"ErrorPage"})}}]),n}(n.n(u).a.Component);e.default=h}}]);
+//# sourceMappingURL=CrashPage.59fc28c1.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpashish=this.webpackJsonpashish||[]).push([[6],{305:function(t,e,n){"use strict";n.r(e);var a=n(3),c=n(19),i=n(36),s=n(23),r=n(24),u=n(0),h=function(t){Object(s.a)(n,t);var e=Object(r.a)(n);function n(){return Object(c.a)(this,n),e.apply(this,arguments)}return Object(i.a)(n,[{key:"render",value:function(){return Object(a.jsx)("div",{children:"Policy"})}}]),n}(n.n(u).a.Component);e.default=h}}]);
+//# sourceMappingURL=PolicyPage.3a0cae0a.chunk.js.map
