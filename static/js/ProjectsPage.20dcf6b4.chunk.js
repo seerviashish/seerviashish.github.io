@@ -1,2 +1,0 @@
-(this.webpackJsonpashish=this.webpackJsonpashish||[]).push([[8],{306:function(t,e,n){"use strict";n.r(e);var s=n(3),a=n(19),c=n(36),r=n(23),i=n(24),u=n(0),h=function(t){Object(r.a)(n,t);var e=Object(i.a)(n);function n(){return Object(a.a)(this,n),e.apply(this,arguments)}return Object(c.a)(n,[{key:"render",value:function(){return Object(s.jsx)("div",{children:"Projects"})}}]),n}(n.n(u).a.Component);e.default=h}}]);
-//# sourceMappingURL=ProjectsPage.20dcf6b4.chunk.js.map

@@ -1,2 +1,0 @@
-(this.webpackJsonpashish=this.webpackJsonpashish||[]).push([[7],{303:function(t,e,n){"use strict";n.r(e);var a=n(3),i=n(19),r=n(36),s=n(23),c=n(24),u=n(0),h=function(t){Object(s.a)(n,t);var e=Object(c.a)(n);function n(){return Object(i.a)(this,n),e.apply(this,arguments)}return Object(r.a)(n,[{key:"render",value:function(){return Object(a.jsx)("div",{children:"Profile"})}}]),n}(n.n(u).a.Component);e.default=h}}]);
-//# sourceMappingURL=ProfilePage.cdb97423.chunk.js.map

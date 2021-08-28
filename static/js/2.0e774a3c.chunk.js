@@ -1,2 +1,0 @@
-(this.webpackJsonpashish=this.webpackJsonpashish||[]).push([[2],{169:function(s,e,t){"use strict";t.r(e),e.default={languageData:{plurals:function(s,e){return e?1==s?"one":2==s||3==s?"two":4==s?"few":6==s?"many":"other":s>=0&&s<=1?"one":"other"}},messages:{test:"Test_HI"}}}}]);
-//# sourceMappingURL=2.0e774a3c.chunk.js.map

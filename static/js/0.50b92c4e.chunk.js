@@ -1,2 +1,0 @@
-(this.webpackJsonpashish=this.webpackJsonpashish||[]).push([[0],{167:function(s,e,t){"use strict";t.r(e),e.default={languageData:{plurals:function(s,e){var t=String(s).split("."),a=!t[1],i=Number(t[0])==s,n=i&&t[0].slice(-1),r=i&&t[0].slice(-2);return e?1==n&&11!=r?"one":2==n&&12!=r?"two":3==n&&13!=r?"few":"other":1==s&&a?"one":"other"}},messages:{test:"Test_EN"}}}}]);
-//# sourceMappingURL=0.50b92c4e.chunk.js.map
